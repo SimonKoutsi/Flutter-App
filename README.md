@@ -1,16 +1,10 @@
-# clean_project
+# Social Media Tattoo Flutter App
 
-A new Flutter project.
+The main idea of this application is to build a virtual place where people who are interested in the tattoo art can meet each other, exchange opinions, demonstrate their work on tattooing, view the work of others and find the best tatto artist that fit their needs. 
 
-## Getting Started
+In the app you can search and follow profiles, like, save and comment on photos and leave reviews. <br>
+___
+This project was made for a Diploma Thesis. It mostly demonstrates the frontend and UI part of the main idea of the application written in a clean way and with clean architecture.
 
-This project is a starting point for a Flutter application.
+For more information you can read my Diploma Thesis listed as <code>Diploma_Simon_Koutsi.pdf</code>. (In Greek)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
